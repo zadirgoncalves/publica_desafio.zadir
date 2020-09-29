@@ -23,6 +23,7 @@ Projeto criado para o desafio publica utilizando o framework React.
 
 Após a configuração completa do React basta executar os seguintes scripts para subir a aplicação.
 
+Executar npm install ou yarn install.
 
 ### `yarn start` ou `npm start` (vai subir a aplicação na porta 3000).
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
